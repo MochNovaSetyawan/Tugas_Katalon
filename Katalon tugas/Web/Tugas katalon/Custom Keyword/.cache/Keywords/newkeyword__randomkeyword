@@ -1,0 +1,29 @@
+{
+  "keywordFileContentHash": "B2540576AD3C7EB2B7E3437C3FEAE7BD",
+  "keywordClasses": [
+    {
+      "name": "newkeyword.randomkeyword",
+      "keywordMethods": [
+        {
+          "name": "randomStringMaker",
+          "parameters": [
+            {
+              "name": "strLength",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "int",
+                "unresolvedClassName": "int",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}

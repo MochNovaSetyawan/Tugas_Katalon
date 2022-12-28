@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "BBBE021CB494D9B39A3EB58A47BD1D6D",
+  "keywordClasses": [
+    {
+      "name": "customKeyword.StringMaker",
+      "keywordMethods": [
+        {
+          "name": "randomStringMaker",
+          "parameters": [
+            {
+              "name": "strLength",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "int",
+                "unresolvedClassName": "int",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

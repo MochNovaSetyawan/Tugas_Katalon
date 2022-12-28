@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "1BB7FE4E374CB482B64EEDA8125849C0",
+  "keywordClasses": [
+    {
+      "name": "lebihbaru.newkeyword",
+      "keywordMethods": [
+        {
+          "name": "myCustomRandom",
+          "parameters": [
+            {
+              "name": "String",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.Object",
+                "unresolvedClassName": "java.lang.Object",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

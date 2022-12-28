@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "B05903C99DC7299EAAA3903E28035551",
+  "keywordClasses": [
+    {
+      "name": "barubos.barubos",
+      "keywordMethods": [
+        {
+          "name": "myCostumPrint",
+          "parameters": [
+            {
+              "name": "msg",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

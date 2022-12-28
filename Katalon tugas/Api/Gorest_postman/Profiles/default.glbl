@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://gorest.co.in/'</initValue>
+      <name>Base_URL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'a3be6382c95d410e166ff049abfd2e17b348b1d30e75f7471a390104af75ce3d'</initValue>
+      <name>key</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Daftar_1</name>
+   <tag></tag>
+   <elementGuidId>14ec7e99-9918-410b-85f7-55365cffafd9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;bs-example-navbar-collapse-1&quot;]/div/ul/li[3]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#bs-example-navbar-collapse-1 > div > ul > li:nth-child(3) > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;bs-example-navbar-collapse-1&quot;]/div/ul/li[3]/a</value>
+      <webElementGuid>5ced4723-4230-4631-ae80-d77094307ee0</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

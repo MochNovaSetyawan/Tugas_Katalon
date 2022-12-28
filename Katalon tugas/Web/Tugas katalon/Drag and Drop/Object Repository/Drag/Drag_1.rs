@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Drag_1</name>
+   <tag></tag>
+   <elementGuidId>860b8c7c-299f-4987-ba27-5511fd578a50</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;draggable&quot;][count(. | //*[@ref_element = 'Object Repository/Iframe/Iframe']) = count(//*[@ref_element = 'Object Repository/Iframe/Iframe'])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;draggable&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;draggable&quot;]</value>
+      <webElementGuid>d3684c53-f209-417f-bcbc-5b446d5e4eeb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Iframe/Iframe</value>
+      <webElementGuid>011ff797-7d56-4912-8702-4315172b1b69</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
